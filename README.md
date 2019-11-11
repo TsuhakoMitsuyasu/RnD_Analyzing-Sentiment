@@ -1,1 +1,1 @@
-# RnD_Analyzing-Sentiment
+# 感情分析ツールのためのリポジトリ
